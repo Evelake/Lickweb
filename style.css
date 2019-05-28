@@ -1,0 +1,28 @@
+html {
+ font-size: 20px;
+font-family: 'Baloo Bhai', cursive;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #ADB9BC;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
